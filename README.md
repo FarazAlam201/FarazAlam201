@@ -1,4 +1,4 @@
-### Hi, I'm Faraz Alam 👋
+### Hi👋, I'm Faraz Alam.
 
 - 🔭 I’m currently working on Frontend Development.
 - 🌱 I’m currently learning Dart and Flutter.
