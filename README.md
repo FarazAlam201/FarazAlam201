@@ -1,3 +1,4 @@
+<img src="https://github.com/FarazAlam201/FarazAlam201/assets/90208567/dc6db8ea-6560-4c4c-94b5-8551ec8b594a" width="1000" height="360" />
 <h1 align="center">Hi 👋, I'm Faraz Alam</h1>
 <h3 align="center">A passionate Flutter enthusiast & developer from Pakistan.</h3>
 
