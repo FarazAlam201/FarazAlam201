@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farazalam201&theme=dark&show_icons=true&locale=en&layout=compact" alt="farazalam201" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farazalam201&show_icons=true&locale=en&bg_color=00000000" alt="farazalam201" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farazalam201&show_icons=true&locale=en&bg_color=00000000&text_color=FFFFFF" alt="farazalam201" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farazalam201&theme=dark" alt="farazalam201" /></p>
 
