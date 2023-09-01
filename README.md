@@ -37,11 +37,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farazalam201&show_icons=true&locale=en&layout=compact" alt="farazalam201" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farazalam201&theme=dark&show_icons=true&locale=en&layout=compact" alt="farazalam201" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farazalam201&show_icons=true&locale=en" alt="farazalam201" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farazalam201&theme=dark&show_icons=true&locale=en" alt="farazalam201" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farazalam201&" alt="farazalam201" /></p>
-### :fire: My Stats :
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farazalam201&theme=dark" alt="farazalam201" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FarazAlam&theme=dark)](https://git.io/streak-stats)
